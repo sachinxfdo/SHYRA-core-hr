@@ -1,0 +1,17 @@
+{
+    "name": "sachinx/shyra-core-hr",
+    "description": "Open-source HR core package",
+    "type": "library",
+    "license": "AGPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Sachinx\\ShyraCoreHr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sachintha Fernando"
+        }
+    ],
+    "require": {}
+}
